@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-recuerdo-en-la-lluvia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tu recuerdo en la lluvia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-recuerdo-en-la-lluvia/) |
+| **Get License** | [Request Licensing for Tu recuerdo en la lluvia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-recuerdo-en-la-lluvia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, tu recuerdo vuelve con la lluvia de hoy
+> Dime dónde estás que directo pa' ti voy
+> Esa mirada me dice quién soy
+> Tú quieres fuego lento y yo te lo doy
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
