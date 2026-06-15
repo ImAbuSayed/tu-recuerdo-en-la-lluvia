@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu recuerdo en la lluvia
+
+This log tracks the cryptographic history and versioning for the song **Tu recuerdo en la lluvia** (tu-recuerdo-en-la-lluvia).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T11:51:58.684868 | `v1` | `2e56bef2b62875f29d5bcee33f5c7670ef5b25c34cbc5e2ed501a3518e75ee8e` | `4ec395ad06327fbc418053d37eadd37dfb584addf0f0fa53742ba74c0b45f431` | `2026-06-15_tu-recuerdo-en-la-lluvia-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

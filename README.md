@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-recuerdo-en-la-lluvia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Tu recuerdo en la lluvia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-recuerdo-en-la-lluvia/) |
+| **Get License** | [Commercial Licensing for Tu recuerdo en la lluvia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-recuerdo-en-la-lluvia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2e56bef2b62875f29d5bcee33f5c7670ef5b25c34cbc5e2ed501a3518e75ee8e` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
